@@ -25,7 +25,7 @@ classifiers = [
 [tool.poetry.dependencies]
 python = ">=3.7"
 cryptography = ">=1.7.2"
-hyper = ">=0.7"
+hyper = "@ https://github.com/beBit-tech/hyper/archive/574ee084ac52b10c211795e663872608f1eed472.tar.gz"
 pyjwt = ">=2.0.0"
 
 [tool.poetry.dev-dependencies]
